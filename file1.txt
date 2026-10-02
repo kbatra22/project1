@@ -4,5 +4,9 @@ I am gittest file1
 my first changes
 new user changes
 gittest changes
+<<<<<<< HEAD
 gitresult user changes
 
+=======
+b1 branch working
+>>>>>>> b1
